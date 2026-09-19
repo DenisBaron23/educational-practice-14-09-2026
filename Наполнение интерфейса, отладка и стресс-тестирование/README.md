@@ -1,0 +1,1 @@
+bash python init_db.py python demo_test.py python main.py

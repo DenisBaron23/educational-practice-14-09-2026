@@ -1,0 +1,1 @@
+bash python init_db.py python service.py
